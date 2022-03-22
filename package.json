@@ -1,0 +1,25 @@
+{
+  "name": "public",
+  "version": "1.0.0",
+  "description": "To store the JavaScript projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Blaack-Work/JavaSript.git"
+  },
+  "keywords": [
+    "Public",
+    "JavaScript",
+    "WebPages",
+    "Projects"
+  ],
+  "author": "Blaack Work",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Blaack-Work/JavaSript/issues"
+  },
+  "homepage": "https://github.com/Blaack-Work/JavaSript#readme"
+}
